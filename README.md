@@ -1,4 +1,4 @@
-##Fullcalendar integration using JQUERY, MySQL & PHP with repeating events support
+## Fullcalendar integration using JQUERY, MySQL & PHP with repeating events support
 
 This solution is implemented using Laravel 5.4.* framework.
 
